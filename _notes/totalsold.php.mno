@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUsername" value="name:username;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:Teller;datatype:string,name:barcode;datatype:int,name:product_name;datatype:string,name:product_price;datatype:string,name:quantity;datatype:int,name:total;datatype:int" />
+	<infoitem key="UD_sum" value="name:sum(total);datatype:real" />
+</info>

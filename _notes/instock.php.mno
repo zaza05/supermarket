@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUsername" value="name:username;datatype:string" />
+	<infoitem key="UD_instock" value="name:id;datatype:int,name:product_name;datatype:string,name:product_price;datatype:int,name:quantity;datatype:int,name:barcode;datatype:string,name:made_date;datatype:string,name:expiring_date;datatype:string,name:date_of_entry;datatype:timestamp,name:supplier;datatype:string" />
+</info>

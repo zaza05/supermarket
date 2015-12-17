@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUsername" value="name:username;datatype:string" />
+	<infoitem key="UD_rsTellerView" value="name:id;datatype:int,name:teller_id;datatype:string,name:teller_names;datatype:string,name:teller_pnumber;datatype:string,name:teller_email;datatype:string,name:teller_username;datatype:string,name:teller_password;datatype:string,name:teller_location;datatype:string" />
+</info>

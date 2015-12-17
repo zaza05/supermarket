@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_reEditRecord" value="name:id;datatype:int,name:product_name;datatype:string,name:product_price;datatype:int,name:supplier;datatype:string" />
+	<infoitem key="UD_rsUsername" value="name:username;datatype:string" />
+	<infoitem key="UD_rsView" value="name:id;datatype:int,name:product_name;datatype:string,name:product_price;datatype:int,name:barcode;datatype:string,name:supplier;datatype:string" />
+</info>

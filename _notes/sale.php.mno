@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUsername" value="name:teller_username;datatype:string" />
+	<infoitem key="UD_rsSales" value="name:id;datatype:int,name:Teller;datatype:string,name:barcode;datatype:int,name:product_name;datatype:string,name:product_price;datatype:string,name:quantity;datatype:int,name:total;datatype:int,name:paid;datatype:int,name:balance;datatype:int" />
+	<infoitem key="UD_rsteller" value="name:username;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_rsbuy" value="name:product_name;datatype:string,name:product_price;datatype:int" />
+	<infoitem key="UD_rsProduct" value="name:product_name;datatype:string,name:product_price;datatype:int,name:barcode;datatype:string" />
+	<infoitem key="UD_rsTeller" value="name:teller_username;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:product_name;datatype:string,name:product_price;datatype:int,name:quantity;datatype:int,name:barcode;datatype:string,name:made_date;datatype:string,name:expiring_date;datatype:string,name:date_of_entry;datatype:timestamp,name:supplier;datatype:string" />
+	<infoitem key="UD_search" value="name:id;datatype:int,name:product_name;datatype:string,name:product_price;datatype:int,name:barcode;datatype:string,name:made_date;datatype:string,name:expiring_date;datatype:string,name:date_of_entry;datatype:timestamp,name:supplier;datatype:string" />
+	<infoitem key="UD_reduce" value="name:barcode;datatype:int,name:product_name;datatype:string,name:product_price;datatype:string,name:quantity;datatype:int" />
+	<infoitem key="UD_unstock" value="name:product_name;datatype:string,name:quantity;datatype:int,name:barcode;datatype:string" />
+</info>

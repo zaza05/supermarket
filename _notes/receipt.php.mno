@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rceipt" value="name:Teller;datatype:string,name:product_name;datatype:string,name:product_price;datatype:string,name:quantity;datatype:int,name:total;datatype:int,name:paid;datatype:int,name:balance;datatype:int" />
+</info>

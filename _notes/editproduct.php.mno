@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUsername" value="name:username;datatype:string" />
+	<infoitem key="UD_rsEdit" value="name:id;datatype:int,name:product_name;datatype:string,name:product_price;datatype:int,name:made_date;datatype:string,name:expiring_date;datatype:string,name:supplier;datatype:string" />
+</info>

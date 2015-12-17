@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUsername" value="name:username;datatype:string" />
+	<infoitem key="UD_viewMessages" value="name:id;datatype:int,name:sender_name;datatype:string,name:sender_email;datatype:string,name:receiver_email;datatype:string,name:object;datatype:string,name:message;datatype:string,name:date;datatype:timestamp" />
+	<infoitem key="UD_viewMessage" value="name:sender_name;datatype:string,name:receiver_name;datatype:string,name:sender_email;datatype:string,name:receiver_email;datatype:string,name:object;datatype:string,name:message;datatype:string,name:date;datatype:timestamp" />
+	<infoitem key="UD_messages" value="name:id;datatype:int,name:sender_name;datatype:string,name:receiver_name;datatype:string,name:sender_email;datatype:string,name:object;datatype:string,name:message;datatype:string,name:date;datatype:timestamp" />
+</info>
